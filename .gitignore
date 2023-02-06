@@ -1,0 +1,3 @@
+*.Terraform_Altschool_mini/terraform.tfstate.backup
+*.Terraform_Altschool_mini/terraform.tfstate
+*.Terraform_Altschool_mini/.terraform.lock.hcl
